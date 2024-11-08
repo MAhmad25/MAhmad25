@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Muhammad Ahmad
+- 👀 I’m interested in ...MERN STACK
+- 🌱 I’m currently learning ...Animated Website
+- 💞️ I’m looking to collaborate on ...MERN Project
+- 😄 Pronouns: ...HE
+- ⚡ Fun fact: ...I am independent
