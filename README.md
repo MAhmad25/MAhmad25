@@ -7,8 +7,7 @@
 <h3 align="center">A MERN AI Developer From Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="mahmad25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&color=0e75b6" alt="mahmad25" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25" alt="mahmad25" /></a> </p> -->
 
 - 🌱 I’m currently learning **Backend**
 
