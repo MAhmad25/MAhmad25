@@ -9,9 +9,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="mahmad25" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25" alt="mahmad25" /></a> </p> 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **React, GSAP, LENIS**
+- 💬 Ask me about **Backend, Frontend, and Web Security**
 
 - 📫 How to reach me **ahmadlatifshadow@gmail.com**
 <br/>
