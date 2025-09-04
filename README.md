@@ -25,12 +25,12 @@
  <br><br>     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <br>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mahmad25">
     <img align="center"
          src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" />
   </a>
-</p>
+</p> -->
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=7BD1EA&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
