@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A MERN AI Developer From Pakistan</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="mahmad25" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Trophies will be available soom" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25" alt="mahmad25" /></a> </p> 
 
 - 🌱 I’m currently learning **Machine Learning**
@@ -25,12 +25,12 @@
  <br><br>     <img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div>
   <br>
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/mahmad25">
     <img align="center"
-         src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" />
+         src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
   </a>
-</p> -->
+</p>
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=7BD1EA&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
