@@ -9,7 +9,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25" alt="Trophies will be available soon" /></a> </p> 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Backend, Frontend, and Web Security**
 
