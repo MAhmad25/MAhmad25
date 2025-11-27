@@ -4,7 +4,7 @@
 </div> 
 <br>
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A MERN AI Developer From Pakistan</h3>
+<h3 align="center">A 20 Years Old Full Stack Developer From Pakistan</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> </p>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25" alt="Trophies will be available soon" /></a> </p> 
