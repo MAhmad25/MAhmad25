@@ -1,14 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f504e&height=130&section=header"/>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=600&color=ffff&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;Have+an+eye+on+my+repositories+!" alt="Typing SVG" /></div> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=ffff&center=true&vCenter=true&width=500&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;Have+an+eye+on+my+repositories+!" alt="Typing SVG" /></div> 
 <br>
 <div align="center">
     <h1 align="center">Hi I'm Muhammad Ahmad</h1>
 <h2 align="center">A 20 Years Old Full Stack Developer From Pakistan</h3>
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> 
-
 </p>
 <p align="center">
     I’m currently learning ML
@@ -20,7 +17,7 @@
 </div>
 
 <div align="center">
-  <h1>GitHub Throphies</h1>
+  <h1>GitHub Trophies</h1>
   <img align="center" src="https://stats.hyo.dev/api/github-trophies?login=mahmad25" width="600" />
 
 </div>
@@ -78,5 +75,6 @@
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=7BD1EA&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> 
   <h2 align="center"> Thanks for visiting my profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4f504e&height=130&section=footer"/>
