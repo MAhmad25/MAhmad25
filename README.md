@@ -1,16 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BD1EA&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201d1d&height=130&section=header"/>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=7BD1EA&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+Friend+!;My+name+is+Ahmad" alt="Typing SVG" /></a>
 </div> 
 <br>
-<h1 align="center">Hi I'm Muhammad Ahmad</h1>
-<h3 align="center">A 20 Years Old Full Stack Developer From Pakistan</h3>
+<div align="center">
+    <h1 align="center">Hi I'm Muhammad Ahmad</h1>
+<h1 align="center">A 20 Years Old Full Stack Developer From Pakistan</h3>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> </p>
 
 -  I’m currently learning **ML**
 -  How to reach me **ahmadlatifshadow@gmail.com**
 <br/>
+<div align="center">
+  <h1>GitHub Stats</h1>
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=mahmad25" width="600" />
+</div>
+
+<div align="center">
+  <h1>GitHub Throphies</h1>
+  <img src="https://stats.hyo.dev/api/github-trophies?login=mahmad25" width="600" />
+
+</div>
 <div align="center">
  <h3 align="center" display="inline-block"><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="25"/> My Skills:</h3> <p align="center"><a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="35" alt="nextjs logo"  />
@@ -49,7 +61,7 @@
  </p>
 </div>
 <br>
-<h2 align="center">📈 GitHub Activity Stats</h2>
+<!-- <h2 align="center">GitHub Activity Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p>
  <div align="center">
     <img height="192px" alt="mahmad25's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmad25&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
@@ -61,9 +73,9 @@
     <img align="center"
          src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
   </a>
-</p>
+</p> -->
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=7BD1EA&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
   <h2 align="center"> Thanks for visiting my profile. </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7BD1EA&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=201d1d&height=130&section=footer"/>
