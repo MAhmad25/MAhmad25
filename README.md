@@ -11,10 +11,10 @@
     I’m currently learning ML
 </p>
 <br/>
-<div align="left">
+<div align="center">
   <h1>GitHub Stats</h1>
-  <img height="300px" src="https://stats.hyo.dev/api/github-stats-advanced?login=mahmad25" width="600" />
-    <a href="https://ibb.co/LLJZq5B"><img height="300px" src="https://i.ibb.co/ywYQMSK/gitstory-MAhmad25-2025.png" alt="gitstory-MAhmad25-2025" border="0"></a>
+  <img height="300px" width="400px" src="https://stats.hyo.dev/api/github-stats-advanced?login=mahmad25" width="600" />
+    <img height="300px" src="https://i.ibb.co/ywYQMSK/gitstory-MAhmad25-2025.png" alt="gitstory-MAhmad25-2025" border="0">
 </div>
 
 <div align="center">
