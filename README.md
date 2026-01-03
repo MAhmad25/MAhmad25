@@ -17,11 +17,11 @@
     <img height="300px" src="https://i.ibb.co/ywYQMSK/gitstory-MAhmad25-2025.png" alt="gitstory-MAhmad25-2025" border="0">
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h1>GitHub Trophies</h1>
   <img align="center" src="https://stats.hyo.dev/api/github-trophies?login=mahmad25" width="600" />
 
-</div>
+</div> -->
 <div align="center">
  <h3 align="center" display="inline-block"><img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="25"/> My Skills:</h3> <p align="center"><a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a><a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="35" alt="nextjs logo"  />
@@ -60,14 +60,14 @@
  </p>
 </div>
 <br>
-<!-- <h2 align="center">GitHub Activity Stats</h2>
+<h2 align="center">GitHub Activity Stats</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p>
- <div align="center">
+ <!-- <div align="center">
     <img height="192px" alt="mahmad25's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmad25&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
  <br><br><img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-  </div>
+  </div> -->
   <br>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mahmad25">
     <img align="center"
          src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
