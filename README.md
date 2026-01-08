@@ -64,7 +64,7 @@
 </div>
 <br>
 <h2 align="center">GitHub Activity Stats</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p> -->
  <!-- <div align="center">
     <img height="192px" alt="mahmad25's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmad25&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
  <br><br><img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
@@ -77,7 +77,7 @@
   </a>
 </p> -->
  <div align="center">
-  <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=7BD1EA&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+  <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> 
   <h2 align="center"> Thanks for visiting my profile. </h2>
