@@ -2,26 +2,22 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=ffff&center=true&vCenter=true&width=500&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;Have+an+eye+on+my+repositories+!" alt="Typing SVG" /></div> 
 <br>
-<div align="center">
-    <h1 align="center">Hi I'm Muhammad Ahmad</h1>
-<h2 align="center">A 20 Years Old Full Stack Developer From Pakistan</h3>
-</div>
+    <h2 align="center">Hi I'm Muhammad Ahmad  </h2>
+    <p align="left">
+    I'm a Full Stack Developer, Backend Engineer
 </p>
-<p align="center">
+<p align="left">
     I’m currently learning ML
 </p>
+
 <br/>
-<div align="center">
-  <h1>GitHub Stats</h1>
+<!-- <div align="center">
   <img height="300px" width="400px" src="https://stats.hyo.dev/api/github-stats-advanced?login=mahmad25" width="600" />
-    <img height="300px" src="https://i.ibb.co/ywYQMSK/gitstory-MAhmad25-2025.png" alt="gitstory-MAhmad25-2025" border="0">
+</div> -->
+<div align="center">
+ <img  height="300px"  src="https://i.ibb.co/ywYQMSK/gitstory-MAhmad25-2025.png" alt="gitstory-MAhmad25-2025" border="0">
 </div>
 
-<!-- <div align="center">
-  <h1>GitHub Trophies</h1>
-  <img align="center" src="https://stats.hyo.dev/api/github-trophies?login=mahmad25" width="600" />
-
-</div> -->
 <div align="center">
      <h1>My Skills</h1>
  <h3 align="center" display="inline-block"><p align="center">
@@ -64,18 +60,21 @@
 </div>
 <br>
 <h2 align="center">GitHub Activity Stats</h2>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p> -->
- <!-- <div align="center">
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p> 
+ <div align="center">
     <img height="192px" alt="mahmad25's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmad25&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
  <br><br><img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
   </div> -->
-  <br>
-<!-- <p align="center">
+  <!-- <br> -->
+ <!-- <p align="center">
   <a href="https://github.com/mahmad25">
     <img align="center"
          src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
   </a>
-</p> -->
+</p>  -->
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=MAhmad25&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</div>
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
