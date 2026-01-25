@@ -10,8 +10,9 @@
     I’m currently learning ML
 </p>
     <br/>
+    <br/>
 
-## Skills
+   <h2 align="center">Technical Skills</h2>
 
 <table><tr><td valign="top" width="33%">
 
