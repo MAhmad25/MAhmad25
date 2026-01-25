@@ -11,46 +11,65 @@
 </p>
 
 <br/>
-<!-- <div align="center">
-  <img height="300px" width="400px" src="https://stats.hyo.dev/api/github-stats-advanced?login=mahmad25" width="600" />
-</div> -->
+
+## Skills
+
+<table><tr><td valign="top" width="33%">
+
+### Frontend  
+<div align="center">  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>   
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>   
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="Vite" height="50" /></a>   
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
+  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="50" /></a>
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=electron" alt="Electron" height="50" />
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=redux" alt="Redux" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Backend  
+<div align="center">  
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
+  <a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bun" alt="Bun" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>  
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>   
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=appwrite" alt="AppWrite" height="50" />
+</div>
+
+</td><td valign="top" width="33%">
+
+### Other  
+<div align="center">  
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="vercel" height="50" />
+</div>
+
+</td></tr>
+</table>
 
 <div align="center">
      <h1>My Skills</h1>
  <h3 align="center" display="inline-block"><p align="center">
   <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,tensorflow,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
 </p></h3>
-     <!-- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" /> -->
- <!-- <br>
- <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo"  />
-  <img width="12" />
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="35" alt="react logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="35" alt="javascript logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" /> -->
   <br>
   <br>
  </p>
