@@ -6,10 +6,9 @@
     <p align="center">
     I'm a Full Stack Developer, Backend Engineer
 </p>
-<p align="center">
+<p align="center
     I’m currently learning ML
 </p>
-
 <br/>
 
 ## Skills
@@ -64,16 +63,6 @@
 
 </td></tr>
 </table>
-
-<div align="center">
-     <h1>My Skills</h1>
- <h3 align="center" display="inline-block"><p align="center">
-  <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,docker,postgres,prisma,express,figma,firebase,redis,github,html,java,js,linux,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,tensorflow,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-</p></h3>
-  <br>
-  <br>
- </p>
-</div>
 <br>
 <h2 align="center">GitHub Activity Stats</h2>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p> 
