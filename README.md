@@ -2,10 +2,10 @@
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=ffff&center=true&vCenter=true&width=600&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;I+love+building+things+from+scratch!" alt="Typing SVG" /></div> 
 <br>
-    <h2 align="center">Hi I'm Muhammad Ahmad  </h2>
-    <p align="center">
+    <h1 align="center">I'm Muhammad Ahmad  </h1>
+    <h1 align="center">
     I'm a Full Stack Developer, Backend Engineer
-</p>
+</h1>
 <p align="center
     I’m currently learning ML
 </p>
