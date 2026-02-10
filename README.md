@@ -91,6 +91,10 @@
  <div align="center">
   <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=da0307&hide_border=true&custom_title=Contribution⠀Graph" /></a>
   </div>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" /> 
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" />
+      <h3LeetCode Stats</h3>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ahmad_Leetcode26?theme=dark&font=Baloo%20Bhai%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
   <h2 align="center"> Thanks for visiting my profile. </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da0307&height=130&section=footer"/>
