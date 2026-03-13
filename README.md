@@ -8,7 +8,9 @@
 </p>
 <p align="left">
     I’m currently learning ML,NLP,Model Deployment
-    Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
+</p>
+<p>
+     Just looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
 </p>
     <br/>
     <br/>
