@@ -14,6 +14,12 @@
 </p>
     <br/>
     <br/>
+    <p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  
+</p>
 
    <h2 align="center">Technical Skills</h2>
 
