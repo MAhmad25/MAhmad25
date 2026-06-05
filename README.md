@@ -87,8 +87,13 @@
          src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
   </a>
 </p>  -->
+
 <div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=MAhmad25&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Insights" />
+    <br>
+      <img src="https://github-readme-stats.shion.dev/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Insights" />
+    <img src="https://streak-stats.demolab.com/?user=mahmad25&theme=dark&hide_border=false" alt="GitHub Insights" />
+  <!-- <img src="https://yourinsights.vercel.app/api/insight?username=MAhmad25&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" /> -->
 </div>
 <!-- <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
