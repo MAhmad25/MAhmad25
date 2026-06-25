@@ -1,24 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3a3a3&height=130&section=header"/>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=a3a3a3&center=true&vCenter=true&width=600&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;I+love+building+things+from+scratch!" alt="Typing SVG" /></div> 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=a3a3a3&center=true&vCenter=true&width=600&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;I+love+building+Full+Stack+Solutions;ML+%26+NLP+Explorer" />
 <br>
     <h1 align="center">Muhammad Ahmad  </h1>
     <p align="left">
-    I'm a Full Stack Developer, Backend Engineer
+    I'm a Full Stack Developer and Backend Engineer focused on building scalable, performant applications and exploring the frontiers of Machine Learning and Natural Language Processing.
 </p>
 <p align="left">
-    I’m currently learning ML,NLP,Model Deployment
+    With a diverse portfolio spanning React and Next.js frontends, Node.js and FastAPI backends, and ML/NLP models, I focus on creating end-to-end solutions that combine thoughtful UX with robust architecture. From Progressive Web Apps to sentiment analysis systems and price prediction models, I work to craft software that makes a difference.
 </p>
-<p>
-     Just looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
+<p align="left">
+    Currently diving into advanced ML techniques including Deep Learning (CNN, LSTM, ANN), feature engineering, and production-ready model deployment. Always learning, always building, always optimizing.
 </p>
     <br/>
     <br/>
     <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  
 </p>
 
    <h2 align="center">Technical Skills</h2>
@@ -60,55 +62,69 @@
 
 </td><td valign="top" width="33%">
 
-### Other  
+### Machine Learning & Data Science
 <div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
-    <img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="vercel" height="50" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="35" />
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="35" />
+  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pandas" alt="Pandas" height="35" /></a>
+  <img style="margin: 10px" src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn" height="35" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" height="35" />
+  <img style="margin: 10px" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" height="35" />
 </div>
 
 </td></tr>
 </table>
+
+<table><tr><td valign="top" width="50%">
+
+### Other Tools and Platforms
+<div align="center">  
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
+  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" height="50" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="50" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="50" /></a>
+  <img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" />
+</div>
+
+</td><td valign="top" width="50%">
+
+### Notable Projects
+<div align="left">
+
+- Sentiment Analysis App: FastAPI backend with React frontend and NLP model integration
+- TheMoviesFlix: Full-featured PWA streaming platform with real-time trending data
+- Next Word Predictor: LSTM-based sequence model trained on Shakespeare's Hamlet
+- AI Chat Bot: Modern React chat interface with API integration
+- Bank Management System: Python GUI with authentication and account management
+- Various ML Models: Price prediction, heart disease classification, feature extraction
+
+</div>
+
+</td></tr>
+</table>
+
 <br>
 <h2 align="center">GitHub Activity Stats</h2>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmad25&theme=gruvbox" alt="Trophies will be available soon" /></a> </p> 
- <div align="center">
-    <img height="192px" alt="mahmad25's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmad25&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
- <br><br><img height="192px" src="https://github-readme-stats.vercel.app/api?username=mahmad25&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-  </div> -->
-  <!-- <br> -->
- <!-- <p align="center">
-  <a href="https://github.com/mahmad25">
-    <img align="center"
-         src="https://streak-stats.demolab.com?user=mahmad25&theme=dark-smoky&hide_border=false&border_radius=10&color=7BD1EA" alt="Streak Section will be available soon" />
-  </a>
-</p>  -->
 
 <div align="center">
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Insights" />
     <br>
       <img src="https://github-readme-stats.shion.dev/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Insights" />
     <img src="https://streak-stats.demolab.com/?user=mahmad25&theme=dark&hide_border=false" alt="GitHub Insights" />
-  <!-- <img src="https://yourinsights.vercel.app/api/insight?username=MAhmad25&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" /> -->
 </div>
-<!-- <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAhmad25&theme=dark&hide_border=false" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MAhmad25&theme=dark&short_numbers=true" alt="GitHub Streak" />
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</div> -->
 
- <div align="center">
-  <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=a3a3a3&hide_border=true&custom_title=Contribution⠀Graph" /></a>
-  </div>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" />
-      <h3LeetCode Stats</h3>
-<!-- <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ahmad_Leetcode26?theme=dark&font=Baloo%20Bhai%202&ext=heatmap" alt="LeetCode Stats" />
-</p> -->
-  <h2 align="center"> Thanks for visiting my profile. </h2>
+<div align="center">
+  <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=fefefe&hide_border=true" /></a>
+</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" />
+
+
+
+
+<h2 align="center">Thanks for visiting my profile</h2>
+<p align="center">Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss interesting ideas. Happy coding</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3a3a3&height=130&section=footer"/>
