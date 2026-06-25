@@ -112,11 +112,11 @@
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Insights" />
     <br>
       <img src="https://github-readme-stats.shion.dev/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Insights" />
-    <img src="https://streak-stats.demolab.com/?user=mahmad25&theme=dark&hide_border=false" alt="GitHub Insights" />
+    <img src="https://streak-stats.demolab.com/?user=MAhmad25&theme=dark&hide_border=false" alt="GitHub Insights" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/mahmad25/mahmad25"><img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=fefefe&hide_border=true" /></a>
+ <img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=fefefe&hide_border=true" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" />
