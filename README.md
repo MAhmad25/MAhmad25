@@ -14,7 +14,7 @@
 <td width="6" valign="top"></td>
 <td width="100%">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=65&amp;section=header" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=100&amp;section=header" alt="">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/header-dark.svg">
@@ -40,7 +40,7 @@ I build AI apps with Python and FastAPI. Most of my recent work is around RAG, r
 
 One of my main projects is a desktop meeting and video assistant. It turns audio and video content into reports you can ask questions about, with the models running locally through Ollama.
 
-[Portfolio](https://imahmad.vercel.app) &nbsp; / &nbsp; [Research assistant demo](https://researcharena.vercel.app)
+[Portfolio](https://imahmad.vercel.app) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
@@ -300,9 +300,8 @@ One of my main projects is a desktop meeting and video assistant. It turns audio
 
 If you're working on an AI project and want to compare ideas, feel free to reach out through [my portfolio](https://imahmad.vercel.app).
 
-<p align="center"><sub>Grid and separators inspired by <a href="https://efferd.com">Efferd</a> · Project card borders adapted from <a href="https://github.com/Alibey-10/cardcn">Cardcn</a> · Brand icons from <a href="https://simpleicons.org">Simple Icons</a></sub></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=65&amp;section=footer" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=100&amp;section=footer" alt="">
 
 </td>
 <td width="6" valign="top"></td>
