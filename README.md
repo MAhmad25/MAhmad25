@@ -1,171 +1,159 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3a3a3&height=130&section=header"/>
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=400&color=a3a3a3&center=true&vCenter=true&width=600&height=25%&lines=Welcome+to+My+Profile;My+name+is+Ahmad;I+build+dependable+AI+projects" alt="Typing SVG" />
+<!-- Profile graphics are included in assets/profile. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/header-light.svg">
+  <img src="./assets/profile/header-light.svg" width="100%" alt="Muhammad Ahmad. AI engineer. RAG apps, research agents, and local LLMs.">
+</picture>
+
+## Hi, I'm Ahmad
+
+I build AI apps with Python and FastAPI. Most of my recent work is around RAG, research agents, and local LLMs. I also use React and React Native to build the interfaces.
+
+One of my main projects is a desktop meeting and video assistant. It turns audio and video content into reports you can ask questions about, with the models running locally through Ollama.
+
+[Portfolio](https://imahmad.vercel.app) &nbsp; / &nbsp; [Research assistant demo](https://researcharena.vercel.app) &nbsp; / &nbsp; [Repositories](https://github.com/MAhmad25?tab=repositories)
+
 <br>
-    <h1 align="center">Muhammad Ahmad  </h1>
-    <p align="left">
-    I'm an <strong>AI Engineer</strong> passionate about building dependable, production-ready AI systems that solve real-world problems. I specialize in developing end-to-end AI solutions combining machine learning, deep learning, and modern software engineering practices.
-</p>
-<p align="left">
-    With expertise across the full ML/AI stack—from data preprocessing and model development to deployment and monitoring—I create robust applications that integrate advanced AI techniques with scalable backend architectures. My work spans NLP, computer vision, RAG systems, multi-agent frameworks, and predictive analytics.
-</p>
-<p align="left">
-    Focused on reliability, performance, and maintainability. I build AI projects that are not just accurate but production-ready with proper testing, documentation, and best practices. Currently exploring advanced architectures including LLM-based agents, RAG systems, voice AI, and multi-agent research systems.
-</p>
 
-<p align="center">
-  📌 <strong>Personal Website:</strong> <a href="https://imahmad.vercel.app">https://imahmad.vercel.app</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
 
-    <br/>
-    <br/>
-    <p align="center">
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine Learning-Expert-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep Learning-Advanced-000000?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black" />
-</p>
+## Tools I use
 
-   <h2 align="center">Technical Skills</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/tools-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/tools-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/tools-dark.svg">
+  <img src="./assets/profile/tools-light.svg" width="100%" alt="Python, FastAPI, LangChain, Ollama, scikit-learn, TensorFlow, React, TypeScript, Expo, Electron, PostgreSQL, and MongoDB.">
+</picture>
 
-<table><tr><td valign="top" width="33%">
+| Work | Tools |
+| :--- | :--- |
+| AI and retrieval | LangChain, ChromaDB, Ollama, Hugging Face |
+| Model training and data | scikit-learn, TensorFlow, Pandas, NumPy, Jupyter |
+| APIs and databases | FastAPI, Node.js, Express, PostgreSQL, MongoDB |
+| Web, mobile, and desktop | React, React Native, Expo, Electron, TypeScript, Tailwind CSS, Vite |
 
-### Machine Learning & AI  
-<div align="center">  
-   <img style="margin: 10px" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="50" />
-   <img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" />
-   <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=pandas" alt="Pandas" height="50" /></a>
-   <img style="margin: 10px" src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn" height="50" />
-   <img style="margin: 10px" src="https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter" height="50" />
-   <img style="margin: 10px" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" height="50" />
-   <img style="margin: 10px" src="https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white&style=for-the-badge" alt="LangChain" height="50" />
-   <img style="margin: 10px" src="https://img.shields.io/badge/Hugging Face-FFD700?logo=huggingface&logoColor=black&style=for-the-badge" alt="Hugging Face" height="50" />
-</div>
+<details>
+  <summary>Other tools I've worked with</summary>
 
-</td><td valign="top" width="33%">
+Git, Next.js, Supabase, Appwrite, AWS, and Vercel.
 
-### Backend & API  
-<div align="center">  
-   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="50" /></a>  
-   <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
-   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
-   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
-   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="50" /></a>  
-   <a href="https://supabase.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="50" /></a>
-   <img style="margin: 10px" src="https://skillicons.dev/icons?i=appwrite" alt="AppWrite" height="50" />
-</div>
+</details>
 
-</td><td valign="top" width="33%">
+<br>
 
-### Frontend & Full Stack
-<div align="center">  
-   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>   
-   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50" /></a>   
-   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
-   <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="50" /></a> 
-   <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="Vite" height="50" /></a>   
-   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>   
-   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>
-   <img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
 
-</td></tr>
+## Things I've built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/Multi-Agent-Research-Assistant">Multi-agent research assistant</a></h3>
+      <p>Searches the web, reads sources, and checks the findings before writing a report. You can follow each step as it runs.</p>
+      <p><sub>Python · FastAPI · LangChain · React</sub></p>
+      <p><a href="https://github.com/MAhmad25/Multi-Agent-Research-Assistant">Code</a> &nbsp; / &nbsp; <a href="https://researcharena.vercel.app">Live demo</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/AI-Meeting-Video-Assistant-with-RAG">Meeting and video assistant</a></h3>
+      <p>A desktop app that turns meetings and YouTube content into reports, then answers questions about them using RAG and local models.</p>
+      <p><sub>Electron · FastAPI · LangChain · Ollama</sub></p>
+      <p><a href="https://github.com/MAhmad25/AI-Meeting-Video-Assistant-with-RAG">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/Sentiment-Analysis-App">Sentiment analysis app</a></h3>
+      <p>Type some text and see its predicted sentiment. A trained scikit-learn model handles the prediction behind a FastAPI endpoint.</p>
+      <p><sub>scikit-learn · FastAPI · React · TypeScript</sub></p>
+      <p><a href="https://github.com/MAhmad25/Sentiment-Analysis-App">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/Chat_with_Document_RAG">Chat with a PDF</a></h3>
+      <p>Upload a PDF and ask questions about it. The app retrieves relevant passages and uses them as context for the answer.</p>
+      <p><sub>FastAPI · LangChain · ChromaDB · Mistral · React</sub></p>
+      <p><a href="https://github.com/MAhmad25/Chat_with_Document_RAG">Code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/Next_Word_Predictor_LSTM_Model">Next word predictor</a></h3>
+      <p>An LSTM trained on Shakespeare's <em>Hamlet</em>. Give it a phrase and it predicts what comes next.</p>
+      <p><sub>TensorFlow · Keras · Streamlit</sub></p>
+      <p><a href="https://github.com/MAhmad25/Next_Word_Predictor_LSTM_Model">Code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MAhmad25/MoviesFlix-Native-Android-App">MoviesFlix for Android</a></h3>
+      <p>A React Native app for browsing movies and TV shows, exploring cast details, and watching trailers.</p>
+      <p><sub>React Native · Expo · TypeScript · TMDB</sub></p>
+      <p><a href="https://github.com/MAhmad25/MoviesFlix-Native-Android-App">Code</a></p>
+    </td>
+  </tr>
 </table>
 
-<br>
-<h2 align="center">AI & ML Projects Showcase</h2>
+<details>
+  <summary>More projects and experiments</summary>
 
-<table><tr><td valign="top" width="50%">
+### AI and machine learning
 
-### Generative AI & LLM Projects
-<div align="left">
+| Project | What I worked on |
+| :--- | :--- |
+| [CineSage](https://github.com/MAhmad25/CineSage_Info_Extractor_GEN_AI) | Extracting movie information from text with an LLM |
+| [Voice agent](https://github.com/MAhmad25/SimpleVoiceAgent-with-Eleven-Labs) | Speech input and voice responses with ElevenLabs |
+| [Heart disease prediction](https://github.com/MAhmad25/HeartDiseases_Prediction_Model) | Comparing models on a heart disease dataset |
+| [Ford car price prediction](https://github.com/MAhmad25/Ford_car_Price_Prediction_Model) | Regression for used car prices |
+| [Movie recommendations](https://github.com/MAhmad25/Movie_Recommendation_Model) | Content-based recommendations |
+| [CNN experiments](https://github.com/MAhmad25/CNN-Model) · [ANN experiments](https://github.com/MAhmad25/ANN-Model) | Image classification and neural network practice |
+| [Classification models](https://github.com/MAhmad25/Classification-Models) · [Sentiment model](https://github.com/MAhmad25/Sentiment_Analysis_Model_using_NLP) | Training and comparing classifiers |
+| [Unsupervised learning](https://github.com/MAhmad25/Unsupervised-Learning) | Clustering with K-means and DBSCAN |
 
-- **Multi-Agent Research Assistant**: Autonomous research system that breaks down queries into search, read, and critique workflows using LLMs
-- **AI Meeting Video Assistant with RAG**: Desktop app converting meeting audio/videos into structured reports with RAG-powered Q&A
-- **Chat with Document RAG**: PDF Q&A application using Mistral AI for document-specific question answering
-- **CineSage Info Extractor**: LLM-powered movie data extraction from unstructured text
-- **SimpleVoiceAgent with Eleven Labs**: Voice agent implementation with speech-to-text and synthesis
+### Web apps
 
-</div>
+[MoviesFlix](https://github.com/MAhmad25/TheMoviesFlix-Streaming-Platform) · [AI chat interface](https://github.com/MAhmad25/AI-Chat-Bot) · [Image gallery](https://github.com/MAhmad25/Image-Gallery) · [E-commerce app](https://github.com/MAhmad25/E-commerce-React-App) · [Education platform](https://github.com/MAhmad25/Education-Platform) · [Bank management app](https://github.com/MAhmad25/Bank-Managment-Streamlit)
 
-</td><td valign="top" width="50%">
+### Data work
 
-### Machine Learning & Deep Learning Models
-<div align="left">
+[IPL analysis](https://github.com/MAhmad25/IPL_Matches_Analysis) · [Data visualization](https://github.com/MAhmad25/DataVisualization) · [Feature engineering](https://github.com/MAhmad25/Capstone_Project_Feature_Engineering) · [Feature extraction](https://github.com/MAhmad25/Feature_Extraction_Project) · [Pandas](https://github.com/MAhmad25/Pandas-Data-Learning) · [NumPy](https://github.com/MAhmad25/NUMPY-Math-Learning) · [Statistics](https://github.com/MAhmad25/Statistics)
 
-- **Next Word Predictor (LSTM)**: Sequence model trained on Shakespeare's Hamlet for text generation
-- **CNN Models**: Image classification on MNIST and anime feature extraction
-- **ANN Models**: Artificial neural networks for various prediction tasks
-- **Sentiment Analysis (NLP)**: End-to-end FastAPI + React sentiment classification system
-- **Ford Car Price Prediction**: Regression model with 82% accuracy
-- **Heart Disease Prediction (KNN)**: Medical classification model with 87% accuracy
-- **Movie Recommendation System**: Content-based recommender from scratch
-- **Classification Models**: Multi-model comparison with SVM achieving 82% accuracy
-- **Data Preprocessing & Feature Engineering**: Complete ML pipeline implementation
-
-</div>
-
-</td></tr>
-</table>
-
-<table><tr><td valign="top" width="50%">
-
-### Full-Stack Applications
-<div align="left">
-
-- **AI Chat Bot**: Modern React interface with gradient animations and real-time API integration
-- **TheMoviesFlix**: Progressive Web App for streaming with real-time trending data
-- **E-commerce React App**: Full-featured shopping platform
-- **Education Platform**: Learning management system
-- **Bank Management System**: Python Streamlit GUI with authentication and account management
-- **Sentiment Analysis App**: Complete FastAPI + React ML application
-
-</div>
-
-</td><td valign="top" width="50%">
-
-### Data Science & Analysis
-<div align="left">
-
-- **Capstone Project - Feature Engineering**: Advanced preprocessing and feature extraction
-- **Data Visualization**: Interactive data storytelling and insights
-- **IPL Matches Analysis**: Sports data analytics and visualization
-- **Statistics & Math**: Mathematical foundations for ML
-- **Unsupervised Learning**: K-means clustering and DBSCAN implementations
-- **Pandas & NumPy**: Data manipulation and numerical computing mastery
-
-</div>
-
-</td></tr>
-</table>
+</details>
 
 <br>
-<h2 align="center">GitHub Activity Stats</h2>
 
-<div align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Insights" />
-    <br>
-      <img src="https://github-readme-stats.shion.dev/api?username=MAhmad25&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Insights" />
-    <img src="https://streak-stats.demolab.com/?user=MAhmad25&theme=dark&hide_border=false" alt="GitHub Insights" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
 
-<div align="center">
- <img alt="mahmad25's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mahmad25&bg_color=RRGGBBAA&title_color=fefefe&color=fefefe&line=fefefe&point=fefefe&hide_border=true" />
-</div>
+## Find me
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahmad25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view will be available soon" />
+If you're working on an AI project and want to compare ideas, feel free to reach out through [my portfolio](https://imahmad.vercel.app).
+
+<details>
+  <summary>GitHub activity</summary>
 
 <br>
-<h2 align="center">Let's Connect & Collaborate</h2>
-<p align="center">I'm always interested in discussing AI/ML projects, collaborating on production-ready systems, and exploring innovative applications of artificial intelligence. Feel free to explore my repositories and reach out if you'd like to work together on something impactful.</p>
 
-<p align="center">
-  <a href="https://imahmad.vercel.app" target="_blank">🌐 Visit My Portfolio</a> | 
-  <a href="https://github.com/MAhmad25" target="_blank">💻 GitHub</a> | 
-  <a href="mailto:your-email@example.com" target="_blank">📧 Email</a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MAhmad25&amp;bg_color=0d1117&amp;color=9198a1&amp;line=f0f6fc&amp;point=f0f6fc&amp;area=true&amp;area_color=30363d&amp;hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAhmad25&amp;bg_color=ffffff&amp;color=59636e&amp;line=1f2328&amp;point=1f2328&amp;area=true&amp;area_color=d1d9e0&amp;hide_border=true" width="100%" alt="GitHub contributions over the last 31 days.">
+</picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a3a3a3&height=130&section=footer"/>
+[View contributions on GitHub](https://github.com/MAhmad25)
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
+
+<p align="center"><sub>Border details inspired by <a href="https://efferd.com">Efferd</a> · Icons from <a href="https://simpleicons.org">Simple Icons</a></sub></p>
