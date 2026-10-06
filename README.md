@@ -1,5 +1,19 @@
 <!-- Profile graphics are included in assets/profile. -->
 
+<table width="100%">
+<tbody>
+<tr>
+<td colspan="3">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/frame-top-dark.svg">
+  <img src="./assets/profile/frame-top-light.svg" width="100%" alt="">
+</picture>
+</td>
+</tr>
+<tr>
+<td width="12" valign="top"></td>
+<td>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=130&amp;section=header" alt="">
 
 <picture>
@@ -12,7 +26,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1500&amp;color=7FC8FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=AI+engineering+and+automation;RAG+apps+and+research+agents;Python+and+FastAPI" alt="AI engineering and automation. RAG apps and research agents. Python and FastAPI.">
 </p>
 
-## Hi, I'm Ahmad
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/panel-intro-dark.svg">
+  <img src="./assets/profile/panel-intro-light.svg" width="100%" alt="Hi, I'm Ahmad. AI engineering and automation.">
+</picture>
 
 I build AI apps with Python and FastAPI. Most of my recent work is around RAG, research agents, and local LLMs. I also use React and React Native to build the interfaces.
 
@@ -30,19 +52,40 @@ One of my main projects is a desktop meeting and video assistant. It turns audio
 ## Technical skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/tools-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/tools-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/tools-dark.svg">
-  <img src="./assets/profile/tools-light.svg" width="100%" alt="Technical skills: Python, JavaScript, TypeScript, FastAPI, LangChain, Ollama, scikit-learn, TensorFlow, NumPy, Pandas, React, Expo, Electron, Node.js, PostgreSQL, and MongoDB.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/skills-languages-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/skills-languages-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/skills-languages-dark.svg">
+  <img src="./assets/profile/skills-languages-light.svg" width="100%" alt="Languages: Python, JavaScript, TypeScript.">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/skills-ai-data-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/skills-ai-data-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/skills-ai-data-dark.svg">
+  <img src="./assets/profile/skills-ai-data-light.svg" width="100%" alt="AI, agents, and machine learning: LangChain, LangGraph, Ollama, Hugging Face, TensorFlow, scikit-learn, NumPy, Pandas.">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/skills-web-mobile-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/skills-web-mobile-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/skills-web-mobile-dark.svg">
+  <img src="./assets/profile/skills-web-mobile-light.svg" width="100%" alt="Web, mobile, and desktop: React, React Native, Next.js, shadcn/ui, Tailwind CSS, Expo, Electron, Vite.">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/skills-backend-data-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="./assets/profile/skills-backend-data-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/skills-backend-data-dark.svg">
+  <img src="./assets/profile/skills-backend-data-light.svg" width="100%" alt="Backend and databases: FastAPI, Node.js, Express, PostgreSQL, MongoDB, Supabase.">
 </picture>
 
 | Area | Languages, frameworks, and tools |
 | :--- | :--- |
 | Languages | Python, JavaScript, TypeScript, SQL |
-| AI and retrieval | LangChain, ChromaDB, Ollama, Hugging Face |
+| AI and retrieval | LangChain, LangGraph, ChromaDB, Ollama, Hugging Face |
 | Machine learning and data | scikit-learn, TensorFlow, Pandas, NumPy, Jupyter |
 | Backend frameworks | FastAPI, Node.js, Express |
-| Web, mobile, and desktop | React, React Native, Next.js, Expo, Electron, Tailwind CSS, Vite |
+| Web, mobile, and desktop | React, React Native, Next.js, shadcn/ui, Tailwind CSS, Expo, Electron, Vite |
 | Databases and services | PostgreSQL, MongoDB, Supabase, Appwrite |
 | Development and deployment | Git, AWS, Vercel |
 
@@ -130,7 +173,17 @@ One of my main projects is a desktop meeting and video assistant. It turns audio
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
+
 ## More projects and experiments
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
 
 ### AI and machine learning
 
@@ -145,14 +198,23 @@ One of my main projects is a desktop meeting and video assistant. It turns audio
 | [Classification models](https://github.com/MAhmad25/Classification-Models) · [Sentiment model](https://github.com/MAhmad25/Sentiment_Analysis_Model_using_NLP) | Training and comparing classifiers |
 | [Unsupervised learning](https://github.com/MAhmad25/Unsupervised-Learning) | Clustering with K-means and DBSCAN |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
+
 ### Web apps
 
 [MoviesFlix](https://github.com/MAhmad25/TheMoviesFlix-Streaming-Platform) · [AI chat interface](https://github.com/MAhmad25/AI-Chat-Bot) · [Image gallery](https://github.com/MAhmad25/Image-Gallery) · [E-commerce app](https://github.com/MAhmad25/E-commerce-React-App) · [Education platform](https://github.com/MAhmad25/Education-Platform) · [Bank management app](https://github.com/MAhmad25/Bank-Managment-Streamlit)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/separator-dark.svg">
+  <img src="./assets/profile/separator-light.svg" width="100%" alt="">
+</picture>
+
 ### Data work
 
 [IPL analysis](https://github.com/MAhmad25/IPL_Matches_Analysis) · [Data visualization](https://github.com/MAhmad25/DataVisualization) · [Feature engineering](https://github.com/MAhmad25/Capstone_Project_Feature_Engineering) · [Feature extraction](https://github.com/MAhmad25/Feature_Extraction_Project) · [Pandas](https://github.com/MAhmad25/Pandas-Data-Learning) · [NumPy](https://github.com/MAhmad25/NUMPY-Math-Learning) · [Statistics](https://github.com/MAhmad25/Statistics)
-
 
 
 <br>
@@ -188,10 +250,27 @@ One of my main projects is a desktop meeting and video assistant. It turns audio
   <img src="./assets/profile/separator-light.svg" width="100%" alt="">
 </picture>
 
-## Find me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/panel-contact-dark.svg">
+  <img src="./assets/profile/panel-contact-light.svg" width="100%" alt="Find me. Projects, ideas, and collaboration.">
+</picture>
 
 If you're working on an AI project and want to compare ideas, feel free to reach out through [my portfolio](https://imahmad.vercel.app).
 
 <p align="center"><sub>Grid and separators inspired by <a href="https://efferd.com">Efferd</a> · Project card borders adapted from <a href="https://github.com/Alibey-10/cardcn">Cardcn</a> · Brand icons from <a href="https://simpleicons.org">Simple Icons</a></sub></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=a3a3a3&amp;height=130&amp;section=footer" alt="">
+
+</td>
+<td width="12" valign="top"></td>
+</tr>
+<tr>
+<td colspan="3">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/frame-bottom-dark.svg">
+  <img src="./assets/profile/frame-bottom-light.svg" width="100%" alt="">
+</picture>
+</td>
+</tr>
+</tbody>
+</table>
